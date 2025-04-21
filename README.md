@@ -42,7 +42,7 @@ This dataset supports the development of machine learning models that can predic
 ## Process Overview
 This project was an iterative process of exploration and refinement. We started with data cleaning and EDA to understand key patterns and feature relationships. Early modeling attempts using basic classifiers revealed the need for better preprocessing, so we incorporated feature scaling and PCA to improve performance and interpretability.
 
-Along the way, we adjusted our approach based on insights—giving more weight to clinically relevant features like UPDRS_Score and Exercise_Level. These pivots helped us build a more effective model and strengthened our understanding of the data and its real-world implications.
+Along the way, we adjusted our approach based on insights giving more weight to clinically relevant features like UPDRS_Score and Exercise_Level. These pivots helped us build a more effective model and strengthened our understanding of the data and its real-world implications.
 
 ## Exploratory Data Analysis (EDA)
 
